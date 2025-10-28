@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Hugging Face Datasets](https://img.shields.io/badge/🤗-HuggingFace%20Datasets-blue)](https://huggingface.co/NOKHAB-Lab)
+[![DOI](https://zenodo.org/badge/1049752514.svg)](https://doi.org/10.5281/zenodo.17465078)
 
 This repository hosts **comprehensive datasets** for fine-tuning Large Language Models (LLMs) on VHDL hardware design tasks, covering the complete RTL development flow from design generation to FPGA implementation.
 
