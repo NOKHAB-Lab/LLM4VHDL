@@ -34,16 +34,6 @@ prompt = "Design a 4-bit counter with synchronous reset and enable signal"
 # Model generates VHDL implementation
 ```
 
-## 📬 Contact
-
-For questions, collaborations, or support:
-
-- 📧 **Patrik Dražić** - [drazic@sdu.dk](mailto:drazic@sdu.dk)
-- 📧 **Benaoumeur Senouci** - [senouci@sdu.dk](mailto:senouci@sdu.dk)  
-- 📧 **Boualem Benatallah** - [boualem.benatallah@dcu.ie](mailto:boualem.benatallah@dcu.ie)
-
----
-
 ## 📜 License
 
 This project and all associated datasets are released under the **MIT License**.  
